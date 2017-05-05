@@ -1,0 +1,7 @@
+#+TITLE: Learning Tensorflow
+
+* Setup
+- Install ~python3.5~ and ~virtualenv~
+- Create a new virtual environment: ~virtualenv -p /usr/local/bin/python3.5 py35tf~
+- Activate the virtual environment: ~source ./py35tf/bin/activate~
+- Install packages: ~pip install -r requirements.txt~
