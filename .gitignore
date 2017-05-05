@@ -1,2 +1,3 @@
 py35tf/
 *.pyc
+.idea/
